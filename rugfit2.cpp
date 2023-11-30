@@ -29,8 +29,8 @@ int main() {
     
     // Change the two assignment statements for floorArea and rugArea
     // to use the area method for each of the floor and rug objects.
-    double floorArea = floor.getArea();
-    double rugArea = rug.getArea();
+    double floorArea = floor.area();
+    double rugArea = rug.area();
 
     // DO NOT CHANGE ANYTHING BELOW (if you do, you are subject to
     // deductions, or getting a zero on the lab.))
