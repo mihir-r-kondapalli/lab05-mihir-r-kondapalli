@@ -13,7 +13,7 @@ public:
 
     // DECLARE (const) METHOD TO RETURN AREA OF RECTANGLE
 
-    
+    double getArea() const;
 
 private:
     double width, length;
